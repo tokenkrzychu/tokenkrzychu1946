@@ -22,6 +22,7 @@ public class MikolajKrzychu {
     {
         int wynik = a+b;
         return wynik;
+        zmieniam cos
     }
     
 }
